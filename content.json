@@ -1,1 +1,35 @@
-{}
+{
+    "Personalia": {
+        "Contract information": {},
+        "Profile for which employee is entered": {
+            "0": {
+                "selectedChoices": {}
+            }
+        },
+        "Highest relevant educational qualification": {
+            "0": {}
+        },
+        "Languages": {
+            "English": {},
+            "French": {},
+            "German": {},
+            "Other(s)": {
+                "0": []
+            }
+        },
+        "Professional experience": {},
+        "First Name": "Maarten",
+        "Last Name": "Landuyt",
+        "Date of birth": "2013-06-02T22:00:00.000Z",
+        "email": "maarten@landuyt.com"
+    },
+    "Professional Experience": {
+        "0": []
+    },
+    "Software Expertise": {
+        "0": []
+    },
+    "Training Page": {
+        "0": []
+    }
+}
